@@ -1,0 +1,8 @@
+*.png
+*~
+
+r2d2/
+move_arms/include/
+move_arms/src/*.py
+move_arms/scripts/*
+!move_arms/scripts/inverseKin.py
